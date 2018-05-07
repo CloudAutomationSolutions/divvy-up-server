@@ -1,0 +1,4 @@
+package: github.com/cloudautomationsolutions/divvy-up-server
+import:
+- package: github.com/julienschmidt/httprouter
+  version: ^1.1.0
